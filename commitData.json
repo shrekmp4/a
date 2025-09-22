@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "id": "1758577621418",
+      "message": "Test commit from CommitManager",
+      "timestamp": "2025-09-22T23:47:01+02:00",
+      "date": "2025-09-22",
+      "time": "23:47:01",
+      "iso": "2025-09-22T21:47:01.000Z"
+    }
+  ],
+  "lastUpdated": "2025-09-22T23:47:01+02:00",
+  "totalCommits": 1,
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Almacenamiento de datos de timestamp de commits para goGreen",
+    "created": "2024-01-01T00:00:00.000Z",
+    "project": "goGreen - GitHub Contribution Graph Generator"
+  },
+  "settings": {
+    "autoBackup": true,
+    "maxCommitsStored": 10000,
+    "dateFormat": "YYYY-MM-DDTHH:mm:ss.SSSZ",
+    "defaultCommitsPerDay": 1,
+    "weekRange": 54,
+    "dayRange": 7
+  },
+  "statistics": {
+    "totalDaysWithCommits": 0,
+    "averageCommitsPerDay": 0,
+    "mostActiveDay": null,
+    "contributionStreak": 0
+  }
+}
